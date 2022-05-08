@@ -1,0 +1,12 @@
+MyWhatsapp
+
+Author: Sathyanarayanan
+
+1.Profile creation page
+
+2.Chat screen code
+
+3.Last seen code
+
+4.Attachments (Image, Audio, Video) code
+
