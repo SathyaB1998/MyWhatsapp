@@ -12,3 +12,7 @@ Author: Sathyanarayanan
 
 5.Hiding last seen implemented
 
+6. Adding the video call feature
+
+7. Adding the audio call feature
+
